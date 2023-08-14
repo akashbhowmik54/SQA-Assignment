@@ -1,2 +1,2 @@
 # SQA-Assignment
-not entirely finished
+Not entirely finished.
